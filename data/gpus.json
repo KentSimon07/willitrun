@@ -1,0 +1,139 @@
+{
+  "_note": "Memory bandwidth in GB/s. Matching uses the longest name found inside the detected GPU name.",
+  "gpus": {
+    "RTX 5090": {
+      "vram_gb": 32,
+      "bandwidth": 1792
+    },
+    "RTX 5080": {
+      "vram_gb": 16,
+      "bandwidth": 960
+    },
+    "RTX 5070 Ti": {
+      "vram_gb": 16,
+      "bandwidth": 896
+    },
+    "RTX 5070": {
+      "vram_gb": 12,
+      "bandwidth": 672
+    },
+    "RTX 5060 Ti": {
+      "vram_gb": 16,
+      "bandwidth": 448
+    },
+    "RTX 5060": {
+      "vram_gb": 8,
+      "bandwidth": 448
+    },
+    "RTX 4090": {
+      "vram_gb": 24,
+      "bandwidth": 1008
+    },
+    "RTX 4080": {
+      "vram_gb": 16,
+      "bandwidth": 717
+    },
+    "RTX 4070 Ti": {
+      "vram_gb": 12,
+      "bandwidth": 504
+    },
+    "RTX 4070": {
+      "vram_gb": 12,
+      "bandwidth": 504
+    },
+    "RTX 4060 Ti": {
+      "vram_gb": 8,
+      "bandwidth": 288
+    },
+    "RTX 4060": {
+      "vram_gb": 8,
+      "bandwidth": 272
+    },
+    "RTX 3090": {
+      "vram_gb": 24,
+      "bandwidth": 936
+    },
+    "RTX 3080": {
+      "vram_gb": 10,
+      "bandwidth": 760
+    },
+    "RTX 3070": {
+      "vram_gb": 8,
+      "bandwidth": 448
+    },
+    "RTX 3060 Ti": {
+      "vram_gb": 8,
+      "bandwidth": 448
+    },
+    "RTX 3060": {
+      "vram_gb": 12,
+      "bandwidth": 360
+    },
+    "RTX 3050": {
+      "vram_gb": 8,
+      "bandwidth": 224
+    },
+    "RTX 4090 Laptop": {
+      "vram_gb": 16,
+      "bandwidth": 576
+    },
+    "RTX 4080 Laptop": {
+      "vram_gb": 12,
+      "bandwidth": 432
+    },
+    "RTX 4070 Laptop": {
+      "vram_gb": 8,
+      "bandwidth": 256
+    },
+    "RTX 4060 Laptop": {
+      "vram_gb": 8,
+      "bandwidth": 256
+    },
+    "RTX 4050 Laptop": {
+      "vram_gb": 6,
+      "bandwidth": 192
+    },
+    "RTX 3060 Laptop": {
+      "vram_gb": 6,
+      "bandwidth": 336
+    },
+    "RX 7900 XTX": {
+      "vram_gb": 24,
+      "bandwidth": 960
+    },
+    "RX 7800 XT": {
+      "vram_gb": 16,
+      "bandwidth": 624
+    },
+    "RX 7700 XT": {
+      "vram_gb": 12,
+      "bandwidth": 432
+    },
+    "RX 7600": {
+      "vram_gb": 8,
+      "bandwidth": 288
+    },
+    "RX 6700 XT": {
+      "vram_gb": 12,
+      "bandwidth": 384
+    },
+    "Arc(TM) B580": {
+      "vram_gb": 12,
+      "bandwidth": 456
+    },
+    "Arc(TM) A770": {
+      "vram_gb": 16,
+      "bandwidth": 560
+    },
+    "Arc(TM) A750": {
+      "vram_gb": 8,
+      "bandwidth": 512
+    }
+  },
+  "defaults": {
+    "integrated": 100,
+    "apple": 150,
+    "dedicated": 300,
+    "system_ram": 60
+  }
+}
